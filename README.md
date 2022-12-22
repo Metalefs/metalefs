@@ -4,7 +4,7 @@
 
 * :boy: 24 years old
 * :rocket: Pursuing a bachelor's degree in Software Engineering
-* :green_book: Machine Learning, Game Development
+* :green_book: Machine Learning, Game Development, Algorithms
 * :office: Currently working at [F3Capital](https://f3capital.com.br)
 
 ## :computer: Stack I'm currently working with 
